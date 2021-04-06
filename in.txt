@@ -1,0 +1,77 @@
+1
+Who wrote the classic novel 'Les Miserables'?
+literature
+MultipleChoice
+Ion Creanga
+Friedrich Nietzsche
+Marcel Proust
+Victor Hugo
+2
+What was the title of Beethoven's only opera?
+music
+MultipleChoice
+Violin Concerto
+Egmont
+Wellington's Victory
+Fidelio
+3
+Which river flows through the city of Dublin?
+geography
+MultipleChoice
+Danube
+Thames
+Nile
+Liffey
+4
+The famous painting 'The Last Supper' was painted by _____
+art
+MatchingContent
+Vincent van Gogh
+Salvador Dali
+Leonardo DiCaprio
+Leonardo da Vinci
+5
+The telephone was invented by _____
+technology
+MatchingContent
+Leonardo da Vinci
+Neil Armstrong
+Stefan cel Mare
+Alexander Graham Bell
+6
+The song _____ was the song that made Avicii famous.
+music
+MatchingContent
+Waiting for Love
+Without You
+Hey Brother
+Levels
+7
+Mount Everest has a height of 8848.
+geography
+T/F
+True
+False
+True
+8
+The last Football World Cup was held in Brasil.
+sport
+T/F
+True
+False
+False
+9
+The attack on Pearl Harbor was on 7th December 1941
+history
+T/F
+True
+False
+True
+10
+What is the US state capital of Arizona?
+geography
+MultipleChoice
+New York
+Los Angeles
+Dallas
+Phoenix
